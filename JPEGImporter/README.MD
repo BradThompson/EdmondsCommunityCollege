@@ -1,4 +1,4 @@
-"Edmonds Community College projects"
+This is a project used to demonstrate the ability to import a JPEG file into a Sql Server database.
 
 Copyright (c) 2017 Brad Dean Thompson
 

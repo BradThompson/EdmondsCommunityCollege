@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{46C9181F-B70A-4F94-A3F4-BEA764AACCC7}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>JPEGDatabase</RootNamespace>
-    <AssemblyName>JPEGDatabase</AssemblyName>
+    <RootNamespace>JPEGImporter</RootNamespace>
+    <AssemblyName>JPEGImporter</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
